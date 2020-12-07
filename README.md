@@ -1,10 +1,9 @@
-# SOLID principles with C# code examples
+# SOLID principles C# code examples
 
-SOLID principles explained with code. 
+SOLID Principles code examples from **[Tim Corey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)** youtube tutorials.
 
 ```
 Talks no worth, show me the code!
-                
                 (c) Someone clever
 ```
 

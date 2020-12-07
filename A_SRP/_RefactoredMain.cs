@@ -1,6 +1,6 @@
 namespace SOLID.A_SRP
 {
-    public class _RefactoredMain
+    public class RefactoredMain
     {
         public static void Run()
         {

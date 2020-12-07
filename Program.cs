@@ -1,5 +1,4 @@
-﻿using System;
-using SOLID.A_SRP;
+﻿using SOLID.B_OCP;
 
 namespace SOLID
 {
@@ -7,7 +6,7 @@ namespace SOLID
     {
         static void Main(string[] args)
         {
-            _RefactoredMain.Run();
+            RefactoredMain.Run();
         }
     }
 }
