@@ -2,7 +2,7 @@ using System;
 
 namespace SOLID.A_SRP
 {
-    public class _InitialMain
+    public class InitialMain
     {
         public static void Run()
         {
