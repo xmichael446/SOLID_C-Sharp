@@ -1,4 +1,4 @@
-﻿using SOLID.B_OCP;
+﻿using SOLID.C_LSP;
 
 namespace SOLID
 {
